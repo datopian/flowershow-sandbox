@@ -7,7 +7,7 @@ const config = {
   },
   editLinkRoot:
     "https://github.com/datopian/flowershow-sandbox/edit/main",
-  showEditLink: true,
+  showEditLink: false,
   navLinks: [
     { href: "/blog", name: "Blog" },
   ],
